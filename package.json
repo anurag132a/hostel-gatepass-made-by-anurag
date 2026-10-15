@@ -1,0 +1,13 @@
+{
+  "name": "hostel_gatepass_mern",
+  "version": "1.0.0",
+  "description": "Converted from the supplied Flask/SQLite project to: - **MongoDB + Mongoose** — database - **Express.js + Node.js** — REST API - **React + Vite** — frontend - **JWT authentication + bcrypt** — login/password hashing - Role-based access for Hosteller, Principal, HOD, Warden, Security",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
